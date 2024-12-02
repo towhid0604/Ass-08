@@ -10,7 +10,7 @@ A modern e-commerce website built with React to sell gadgets like phones, laptop
 
 ## Requirement Document Link
 
-[**Project Requirement Document**](#) _(Replace with actual link)_
+[**Project Requirement Document**](https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-towhid0604)
 
 ---
 
