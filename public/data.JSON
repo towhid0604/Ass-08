@@ -2,7 +2,7 @@
   {
     "product_id": "1",
     "product_title": "Apple MacBook Pro 16-inch (2023)",
-    "product_image": "../src/assets/AppleMacBookPro16-inch(2023).jpeg",
+    "product_image": "https://i.ibb.co.com/py407S4/Apple-Mac-Book-Pro16-inch-2023.jpg",
     "category": "Laptop",
     "price": 2499.99,
     "description": "The MacBook Pro 16-inch features the powerful M2 Pro chip, a stunning Retina display, and long-lasting battery life.",
@@ -22,7 +22,7 @@
   {
     "product_id": "2",
     "product_title": "Samsung Galaxy S23 Ultra",
-    "product_image": "../src/assets/SamsungGalaxyS23Ultra.jpeg",
+    "product_image": "https://i.ibb.co.com/5sRf78V/Samsung-Galaxy-S23-Ultra.jpg",
     "category": "Phone",
     "price": 1199.99,
     "description": "The Galaxy S23 Ultra features a powerful Snapdragon 8 Gen 2 chip, stunning AMOLED display, and a 200MP main camera.",
@@ -42,7 +42,7 @@
   {
     "product_id": "3",
     "product_title": "Apple AirPods Pro (2nd Gen)",
-    "product_image": "../src/assets/AppleAirPodsPro(2ndGen) .jpg",
+    "product_image": "https://i.ibb.co.com/y0gwLFB/Apple-Air-Pods-Pro-2nd-Gen.jpg",
     "category": "Accessories",
     "price": 249.99,
     "description": "The AirPods Pro (2nd Gen) offers superior noise cancellation and enhanced sound quality with a comfortable fit.",
@@ -62,7 +62,7 @@
   {
     "product_id": "4",
     "product_title": "Dell XPS 13 (2024)",
-    "product_image": "../src/assets/DellXPS 13(2024) .jpeg",
+    "product_image": "https://i.ibb.co.com/yXVw7cR/Dell-XPS-13-2024.jpg",
     "category": "Laptop",
     "price": 1499.99,
     "description": "The Dell XPS 13 is an ultra-portable laptop with a stunning display, powerful performance, and long battery life.",
@@ -82,7 +82,7 @@
   {
     "product_id": "5",
     "product_title": "iPhone 14 Pro",
-    "product_image": "../src/assets/iPhone14Pro .jpeg",
+    "product_image": "https://i.ibb.co.com/LRmdMrX/i-Phone14-Pro.jpg",
     "category": "Phone",
     "price": 999.99,
     "description": "iPhone 14 Pro features Dynamic Island, a 48MP Pro Camera system, and the powerful A16 Bionic chip.",
@@ -102,7 +102,7 @@
   {
     "product_id": "6",
     "product_title": "Microsoft Surface Laptop 5",
-    "product_image": "../src/assets/MicrosoftSurfaceLaptop5.jpeg",
+    "product_image": "https://i.ibb.co.com/PmyL8rc/Microsoft-Surface-Laptop5.jpg",
     "category": "Laptop",
     "price": 1199.99,
     "description": "The Surface Laptop 5 features an elegant design, fast performance, and a gorgeous PixelSense touchscreen display.",
@@ -122,7 +122,7 @@
   {
     "product_id": "7",
     "product_title": "Bose QuietComfort 45 Headphones",
-    "product_image": "../src/assets/BoseQuietComfortHeadphones .jpeg",
+    "product_image": "https://i.ibb.co.com/k5kChY4/Bose-Quiet-Comfort-Headphones.jpg",
     "category": "Accessories",
     "price": 329.99,
     "description": "The Bose QuietComfort 45 headphones deliver high-quality sound with industry-leading noise cancellation.",
@@ -141,7 +141,7 @@
   {
     "product_id": "8",
     "product_title": "Google Pixel 7 Pro",
-    "product_image": "../src/assets/GooglePixel7Pro .jpeg",
+    "product_image": "https://i.ibb.co.com/Nsd6y7y/Google-Pixel7-Pro.jpg",
     "category": "Phone",
     "price": 899.99,
     "description": "The Google Pixel 7 Pro offers a seamless experience with Google Tensor chip and powerful camera features.",
@@ -161,7 +161,7 @@
   {
     "product_id": "9",
     "product_title": "Razer Blade 15 Advanced",
-    "product_image": "../src/assets/RazerBlade15Advanced .jpeg",
+    "product_image": "https://i.ibb.co.com/5LH2hf1/Razer-Blade15-Advanced.jpg",
     "category": "Laptop",
     "price": 2299.99,
     "description": "Razer Blade 15 Advanced is a high-performance gaming laptop with a fast display and powerful graphics card.",
@@ -181,7 +181,7 @@
   {
     "product_id": "10",
     "product_title": "iPhone 15 Pro Max",
-    "product_image": "../src/assets/iPhone15ProMax.jpeg",
+    "product_image": "https://i.ibb.co.com/KG4htWV/i-Phone15-Pro-Max.jpg",
     "category": "Phone",
     "price": 1599.99,
     "description": "The iPhone 15 Pro Max features the A17 Pro chip and a new 48MP camera system with advanced capabilities.",
@@ -201,7 +201,7 @@
   {
     "product_id": "11",
     "product_title": "Sony WH-1000XM5 Headphones",
-    "product_image": "../src/assets/SonyWH-1000XM5Headphones.jpeg",
+    "product_image": "https://i.ibb.co.com/N2vSWnK/Sony-WH-1000-XM5-Headphones.jpg",
     "category": "Accessories",
     "price": 399.99,
     "description": "Sony WH-1000XM5 offers world-leading noise cancellation and immersive sound for an exceptional listening experience.",
@@ -220,7 +220,7 @@
   {
     "product_id": "12",
     "product_title": "Garmin Forerunner 955 Solar",
-    "product_image": "../src/assets/GarminForerunner955Solar .jpeg",
+    "product_image": "https://i.ibb.co.com/tZkDSxv/Garmin-Forerunner955-Solar.jpg",
     "category": "Smartwatch",
     "price": 599.99,
     "description": "The Garmin Forerunner 955 Solar is a GPS smartwatch for athletes, with solar charging and advanced fitness features.",
@@ -240,7 +240,7 @@
   {
     "product_id": "13",
     "product_title": "Apple Watch Series 8",
-    "product_image": "../src/assets/AppleWatchSeries8 .jpeg",
+    "product_image": "https://i.ibb.co.com/CJVYQ5H/Apple-Watch-Series8.jpg",
     "category": "Smartwatch",
     "price": 399.99,
     "description": "The Apple Watch Series 8 features health sensors, a large Retina display, and advanced workout tracking.",
@@ -260,7 +260,7 @@
   {
     "product_id": "14",
     "product_title": "Samsung Galaxy Watch 6 Classic",
-    "product_image": "../src/assets/SamsungGalaxyWatch6Classic .webp",
+    "product_image": "https://i.ibb.co.com/Vt1sxTB/Samsung-Galaxy-Watch6-Classic.webp",
     "category": "Smartwatch",
     "price": 399.99,
     "description": "The Samsung Galaxy Watch 6 Classic brings premium features such as a rotating bezel and improved health tracking.",
@@ -280,7 +280,7 @@
   {
     "product_id": "15",
     "product_title": "Fitbit Sense 2",
-    "product_image": "../src/assets/FitbitSense2.jpeg",
+    "product_image": "https://i.ibb.co.com/QDWnJNW/Fitbit-Sense2.jpg",
     "category": "Smartwatch",
     "price": 299.99,
     "description": "Fitbit Sense 2 is a health-focused smartwatch with advanced stress management and sleep tracking features.",
